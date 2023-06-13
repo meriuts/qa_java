@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="12" failures="0" name="com.example.LionTest" time="0.142" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="com.example.LionTest" time="0.015" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2022.3.3"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -61,16 +61,6 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.example.LionTest" name="getFoodTest[0]" time="0.109"/>
-  <testcase classname="com.example.LionTest" name="getKittensOfFelineClassTest[0]" time="0.003"/>
-  <testcase classname="com.example.LionTest" name="generationLionTest[0]" time="0.002"/>
-  <testcase classname="com.example.LionTest" name="doesHaveManeRun[0]" time="0.004"/>
-  <testcase classname="com.example.LionTest" name="doesHaveManeResult[0]" time="0.003"/>
-  <testcase classname="com.example.LionTest" name="getKittensTest[0]" time="0.003"/>
-  <testcase classname="com.example.LionTest" name="getFoodTest[1]" time="0.006"/>
-  <testcase classname="com.example.LionTest" name="getKittensOfFelineClassTest[1]" time="0.003"/>
-  <testcase classname="com.example.LionTest" name="generationLionTest[1]" time="0"/>
-  <testcase classname="com.example.LionTest" name="doesHaveManeRun[1]" time="0.003"/>
-  <testcase classname="com.example.LionTest" name="doesHaveManeResult[1]" time="0.002"/>
-  <testcase classname="com.example.LionTest" name="getKittensTest[1]" time="0.004"/>
+  <testcase classname="com.example.LionTest" name="getFoodTest" time="0.012"/>
+  <testcase classname="com.example.LionTest" name="getKittensTest" time="0.003"/>
 </testsuite>
