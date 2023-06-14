@@ -27,7 +27,6 @@ public class LionHasManeTest {
     @Test
     public void generationLionTest () throws Exception {
             Lion lion = new Lion(feline, sex);
-            Assert.assertTrue(lion instanceof Lion);
     }
 
     @Test(expected = Exception.class)
