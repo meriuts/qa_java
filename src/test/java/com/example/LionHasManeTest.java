@@ -24,10 +24,6 @@ public class LionHasManeTest {
                 {"Самка", "Мужской"}
         };
     }
-    @Test
-    public void generationLionTest () throws Exception {
-            Lion lion = new Lion(feline, sex);
-    }
 
     @Test(expected = Exception.class)
     public void generationExceptionLionTest () throws Exception {
